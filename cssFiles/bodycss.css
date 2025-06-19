@@ -1,0 +1,48 @@
+.tours
+{
+   margin-bottom: 40px;
+    text-align: center;
+    /* background-color: rgb(228, 230, 231); */
+    padding:20px;
+}
+
+.tours h1
+{
+    letter-spacing: 1px;
+    font-size: 30px;
+    margin-bottom:40px;
+
+}
+.tours .tours-card
+{
+background-color: rgb(66, 66, 146);
+padding: 20px;
+font-size: 18px;
+color: white;
+}
+
+
+.discounted-tours
+{
+   margin-bottom: 40px;
+    text-align: center;
+    /* background-color: rgb(228, 230, 231); */
+    padding:20px;
+}
+
+
+.discounted-tours h1
+{
+    letter-spacing: 1px;
+    font-size: 30px;
+    margin-bottom:40px;
+
+}
+
+.discounted-tours  .tours-card 
+{
+background-color: rgb(66, 66, 146);
+padding: 20px;
+font-size: 18px;
+color: white;
+}
